@@ -1,3 +1,4 @@
+# This code actually extracts all the frames from a video
 import cv2
 import os
 # from PIL import Image
